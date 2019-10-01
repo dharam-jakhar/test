@@ -1,0 +1,55 @@
+    What can you tell us about E-Commerce?
+    Name 5 competitors that you believe are our competitors.
+    Why Amazon? / Why do you choose to work in Amazon?
+    Explain your strengths in terms of this job profile.
+    Do have any work experience with a similar job profile?
+    If hired, what do you believe would be your role and responsibility at Amazon?
+    Are you open to leadership roles?
+    Who is the CEO of Amazon?
+    If hired, as a working professional for Amazon, what are the ideas that you would bring up to set Amazon apart from
+ the other brands?
+    On a personal level, do you purchase products online or from a shop?
+    Why do you shop online/ or otherwise?
+    Have you purchased any product from Online Shopping: Shop Online for Mobiles, Books, Watches, Shoes and More?
+    Do you prefer COD or online payment?
+    Justify why you prefer COD/ online payment?
+    Do you believe that COD can be done away with in the future considering the increasing facilities of using plastic money?
+    What is the highest purchased category of products purchased on Amazon?
+    Given an opportunity to redesign the website, what changes would you implement in bringing about the same?
+    Name one product that Amazon has featured.
+    What is the price of the paperback kindle?
+    How would you design a secure system for online payment at Amazon?
+    What is Amazon EC2?
+    What is AWS Lamda?
+    What is AWS Migration service?
+    In what service does AWS work?
+    How would you introduce AWS in an elevator pitch?
+    Who do you think are our most frequent buyers and clients?
+    Write the code for infix to postfix conversion?
+    Identify the mistakes in the following codes. (for software engineers)
+    Debug the following programs.
+
+30.Briefly explain the BST algorithm.
+
+    Write a bubble sort algorithm and solve 5 7 1 4 6 10
+    Find power (x,y) without the use of the pow function.
+    Build a binary tree using preorder and inorder.
+    Explain the functioning of any 3 data structures.
+    What is optimal stopping theory?
+    Find the longest palindromic substring from the given string.
+    Where do you see yourself 5 years from now?
+    Name 3 factors that make you nervous.
+    If you were in a foul mood on a day at work, what would you do to not let it affect your productivity?
+    If you came across your colleagues engaging in idle gossip, what would be your reaction?
+    If you suggest a certain idea to be implemented to your team, but your leader isn’t convinced, 
+how would you persuade your team and your leader to execute and consider your idea?
+    What are the strategies through which you would instil work ethic in your team?
+    Speaking of you as a professional, how would you handle a customer complaint?
+    What is the worst mistake that you have committed at your work place?
+    If you are witness to work place harassment, what would you do?
+    What is the function of the HR?
+    If there is a conflict that arises between your team mates, how would you handle it?
+    How will you ensure time management considering the work load?
+    If you are shifted to a different team, on a different project, will you face difficulties while adapting to a 
+new work format and working with a new team?
+    If your colleague is depressed and demotivated, what action would you take?
